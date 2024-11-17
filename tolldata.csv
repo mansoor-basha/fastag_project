@@ -1,0 +1,65 @@
+id,State,NH-No.,Toll Plaza Name,Toll Plaza Location,Section / Stretch,Source ,Destination 
+1,Tamil Nadu,NH-45,ATHUR (TINDIVANAM),Km 103.500,Tambaram - Tindivanam (Km 74.500 - Km 121.000),Tambaram,Tindivanam
+2,Tamil Nadu,NH 87 (Old NH49),BOGALUR ,98.129,Madurai Rama0thapuram,Madurai,Ramanathapuram
+3,Tamil Nadu,NH 45 B,Boothakudi,Km 21.020,Trichi Bypass - Tovarankurichi - Madurai,Trichy,Madurai
+4,Tamil Nadu,NH-83,Chatrapatti,Chatrapatti,Four laning of OddanchatramMadathukulam section of NH 209 (New NH 83),,
+5,Tamil Nadu,NH-48,Chennasamudram,Km 104.900,Walajapet - Poomalle,,
+6,Tamil Nadu,NH-45 B,Chittampatti,Km 113.630,Trichi Bypass - Tovarankurichi - Madurai,Trichy,Madurai
+7,Tamil Nadu,NH-45B,Eliyarpathi,Km 143.580,Madurai Toturian,,
+8,Tamil Nadu,NH-234,Enamkariyanandal,Enamkariyanandal Km.138.600,Vellore to Viluppuram,Vellore,Villuppuram
+9,Tamil Nadu,NH-7,Etturvattam,Km 74.930,Madurai - Tirunelveli - Panagudi - kanayakumari,Madurai,Kanyakumari
+10,Tamil Nadu,81 Old NH227,Kallakudi,Kallakudi,Four laning of Tiruchirapalli (Km.0.00) to Kallagam (Km.38.700) section of NH227,,
+11,Tamil Nadu,544,Kaniyur,Km 136.840,Chengapalli - Coimbatore Byepass(Km 102.035 to 144.680),,
+12,Tamil Nadu,7,Kappalur,Km 18.652,Madurai - Tirunelveli - Panagudi - kanayakumari,,
+13,Tamil Nadu,532,Keezhkuppam,at 97.500,Ma0valanullur to Chin0salem (km 57.800 to km 110.942),,
+14,Tamil Nadu,7,Kodai Road,Km 398.500,Dindigul bypass - Samyanallore,Dindigul,Samyanallore
+15,Tamil Nadu,Old No.NH210New No.(NH536),Kodikottai,Km 114.550,Karaikudi Rama0thapuram,Karaikudi,Ramanathapuram
+16,Tamil Nadu,NH 7,Kozhinjipatti,Km392.921,Dindigul Samayanallur,Dindigul,Samayanallur
+17,Tamil Nadu,44,Krishnagiri,Km 87.500,Hosur - Krishnagiri,Hosur,Krishnagiri
+18,Tamil Nadu,210,Lechchumanapatti,Km 19.000,Trichy - Karaikudi (km 10.000 - Km 54.8000),Trichy,Karaikudi
+19,Tamil Nadu,210,Lembalakudi,Km 57.317,Trichy - Karaikudi (Km 54.800 - Km 91.054),Trichy,Karaikudi
+20,Tamil Nadu,81 Old NH227,Managethi,Managethi,Four laning of Kallagam (km.38700) to Karuppur (km.50382),,
+21,Tamil Nadu,67,Manavasi,Km 198.500,Trichy - Karur,Trichy,Karur
+22,Tamil Nadu,State Highways ( SH01 SH01A SH56 SH02),Mathur,Km 22.200,Road Connectivity to Chen0i to Ennore Ports Widening Strengthening Improvements to Thiruvottiyur Ponneri Panchetti Road Inner Ring Road Ma0li Oil refinery Road Ennore Expressway,Chennai,Ennore
+23,Tamil Nadu,79,Mettupatti,Km 21.750,Salem - Ulundurpet,Salem,Ulundurpet
+24,Tamil Nadu,66,Morattandi,Km 6.572,Pondicherry - Tindivanam,Pondicherry,Tindivanam
+25,Tamil Nadu,5,Nallur,Km 21.625,Chennai - Tada,Chennai,Tada
+26,Tamil Nadu,7,Nanguneri,Km 185.387,Moondradaippu - Anjugramam,Moondradaippu,Anjugramam
+27,Tamil Nadu,79,Nathakkarai,Km 73.760,Salem - Ulundrupet,Salem,Ulundrupet
+28,Tamil Nadu,48,Nemili (Sriperumbudur),Km 37.800,Walajapet - Poomalle,Walajapet,Poomalle
+29,Tamil Nadu,44,Omallur,Km 191.800,Omallur - Namakkal,Omallur,Namakkal
+30,Tamil Nadu,226,Palaya Gandharvakottai,Km 16.095,Thanjavur to Pudukkottai,Thanjavur,Pudukkottai
+31,Tamil Nadu,44,Palayam (Dharmapuri),Km 154.440,Krishnagiri - Thumbipadi,Krishnagiri,Thumbipadi
+32,Tamil Nadu,48,Pallikonda,Km 98.520,Krishnagiri - Walajahpet,Krishnagiri,Walajahpet
+33,Tamil Nadu,49(Old 87),Pamban Bridge (MoRTH),Annai Indira Gandhi Bridge (Pamban Bridge,Mandapam - Rameswaram.,Mandapam,Rameswaram.
+34,Tamil Nadu,45,Paranur (Chengalpet),Km 52.820,Tambaram - Tindivanam (Km 28.000 - Km 74.500),Tambaram,Tindivanam
+35,Tamil Nadu,205,Pattaraiperumbudur (temporary TP),Km 31.800,Tirupati-Tiruthani-Chennai,Tirupat,Chennai
+36,Tamil Nadu,45,Ponnambalapatti,Km 382.850,Trichy - Dindigul,Trichy,Dindigul
+37,Tamil Nadu,45B,Pudhurpandiyapuram,Km 254.940,Madurai Tuticorin,Madurai,Tuticorin
+38,Tamil Nadu,785,Pudur,Km 21020,Four laning of Madurai Chettikulam Natham Thuvarankurichi section from km. 0.000 to km. 61.115 of NH785 on EPC mode under Bhartmala Pariyojna phaseI in the state of Tamil Nadu,Madurai,Chettikulam
+39,Tamil Nadu,44,Rasampalayan,Km 259.500,Nammakal - Karur,,
+40,Tamil Nadu,205,S V Puram,Km 305.800,Tirupati-Tiruthani-Chennai,Tirupati,Chennai
+41,Tamil Nadu,7,Salaipudhur,Km 125.350,Madurai - Tirunelveli - Panagudi - Kanyakumari,Madurai,Kanyakumari
+42,Tamil Nadu,45,Samayapuram,Km 307.241,Padalur - Trichy,Padalur,Trichy
+43,Tamil Nadu,45,Sengurichi,Km 192.750,Ulundurpet - Padalur,Ulundurpet,Padalur
+44,Tamil Nadu,226,Shenbagampettai,92.957,Thirumayam to Manamadurai,Thirumayam,Manamadurai
+45,Tamil Nadu,45,Surapattu (Chennai Bypass II),Km 28.600,Chennai Bypass,,
+46,Tamil Nadu,234,Thennamadevi Toll plaza,Thennamadevi Km.198.600,Vellore to Viluppuram,Vellore,Viluppuram
+47,Tamil Nadu,45,Thirumandurai,Km 244.000,Ulundurpet - Padalur,Ulundurpet,Padalur
+48,Tamil Nadu,944,Thirupathisaram Toll plaza,2.42,Nagercoil Kavalkinaru,Nagercoil,Kavalkinaru
+49,Tamil Nadu,NH 87 (Old NH49),Thiruppachethi,Km. 30.188,Madurai Ramanathapuram,Madurai,Ramanathapuram
+50,Tamil Nadu,81,Thirupparaithurai,Km 157.500,Trichy - Karur,Trichy,Karur
+51,Tamil Nadu,Old NH No.67 New NH No.83,Thuvakudi,Km. 111.255,Trichy Bypass from Km.110.016 to Km.135.930,,
+52,Tamil Nadu,NH 532,U.Ponnalagaram,45/2,Cuddalore to Virudhachalam section from Km 0.800 to Km 51.000,Cuddalore,Virudhachalam
+53,Tamil Nadu,138 (Old 7A ),Vagaikulam ( Pudukottai ),Km 17.000,Tirunelveli - Tuticorin (Km 0.000 - Km 47.250),Tirunelveli,Tuticorin
+54,Tamil Nadu,544,Vaiguntham,Km 27.697,Salem Kumarapalayam,Salem,Kumarapalayam
+55,Tamil Nadu,67,Valavanthankottai,Km 120.900,Thanjavur - Trichy,Thanjavur,Trichy
+56,Tamil Nadu,234,Vallam Toll plaza,Vallam Km.80.600,Vellore to Viluppuram,Vellore,Viluppuram
+57,Tamil Nadu,45,Vanagaram (Chennai Bypass),Km 16.500,Chennai Bypass,,
+58,Tamil Nadu,48,Vaniyambadi,Km 46.800,Krishnagiri - Walajahpet,Krishnagiri,Walajahpet
+59,Tamil Nadu,79,Veeracholapuram (West),Km 105.000,Salem - Ulundrupet,Salem,Ulundrupet
+60,Tamil Nadu,381,Velampatti Toll Plaza,Avinashipalayam,Commencement of Toll Operation at Velampatti Toll Plaza at Km 28.815 in the Project of AvinashiTiruppur Avinashipalayam section (from Km 00 to 31.800) of NH381 in the State of,,
+61,Tamil Nadu,44,Velanchettiyur,Km 338.000,Karur Bypass - Dindigul bypass,Dindigul,Karur
+62,Tamil Nadu,Old No.NH210New No.(NH536),Vennathur,Km 154.960,Karaikudi Rama0thapuram,Karaikudi,Ramanathapuram
+63,Tamil Nadu,544,Vijaymangalmam,Km 88.287,Kumarapalayam - Chengalpalli,,
+64,Tamil Nadu,45,Vikravandi(Villupuram),Km 150.400,Tindivanam - Ulundurpet,Tindivanam,Ulundurpet
